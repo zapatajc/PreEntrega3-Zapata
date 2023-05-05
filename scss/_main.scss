@@ -1,0 +1,26 @@
+.main{
+    text-align: center;
+    .subTexto{
+        text-align: center;
+        p{
+            $tipografiaTextos: Open Sans;
+        ImagenYacanto{
+                text-align: center;
+            }
+        }
+    }
+}
+@media only screen and (min-width:300px) and (max-width: 600px){
+    .main{
+        text-align: center;
+        .subTexto{
+            text-align: center;
+            p{
+                $tipografiaTextos: Open Sans;
+            ImagenYacanto{
+                    text-align: center;
+                }
+            }
+        }
+    }   
+}

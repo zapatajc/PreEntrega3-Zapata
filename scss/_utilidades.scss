@@ -1,0 +1,63 @@
+.form-group{
+    margin-bottom: 1rem;
+}
+.principal{
+    text-align: center;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    color: #696969;
+    margin: 0 30px;
+    padding: 5px 15px;
+    border-radius: 30px;
+}
+nav a:hover{
+    background-color: #000;
+    color: #fff;
+}
+.encabezado-img{
+    background-image: url(../assets/img/fondo1.jpg);
+    height: 580px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.encabezado-img p{
+    font-size: 20px;
+}
+
+.encabezado-img h1{
+    font-size: 35px;
+    padding: 20px 0;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: auto;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.pieDePagina{
+    text-align: center;
+}
+
+.subTexto{
+    text-align: center;
+}
+
+.conteiner{
+    text-align: center;
+}
+
+.ImagenYacanto{
+    text-align: center;
+}

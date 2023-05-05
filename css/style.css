@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Open Sans;
+}
+
+header{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 25px 0;
+}
+
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    color: #696969;
+    margin: 0 30px;
+    padding: 5px 15px;
+    border-radius: 30px;
+}
+
+nav a:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.encabezado-img{
+    background-image: url(../assets/img/fondo1.jpg);
+    height: 580px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.encabezado-img p{
+    font-size: 20px;
+}
+
+.encabezado-img h1{
+    font-size: 35px;
+    padding: 20px 0;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: auto;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.pieDePagina{
+    text-align: center;
+}
+
+.subTexto{
+    text-align: center;
+}
+
+.principal{
+    text-align: center;
+}
+
+.conteiner{
+    text-align: center;
+}
+
+.form-group{
+    margin-bottom: 1rem;
+}
+
+.ImagenYacanto{
+    text-align: center;
+}
+  
+
+  
